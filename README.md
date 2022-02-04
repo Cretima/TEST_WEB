@@ -1,5 +1,3 @@
-# TEST_WEB
-Study html(Hypertext Markup Language) >> not programing language. >> Markup Language
+# 고민 끄적끄적 장
 
-
-Test web page >>> https://cretima.github.io/TEST_WEB/
+어떻게 하면 더 가독성 있는 웹페이지를 만들것인가.
